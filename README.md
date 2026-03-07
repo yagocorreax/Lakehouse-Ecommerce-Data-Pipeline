@@ -25,5 +25,46 @@ Gold Layer (Analytics & Business KPIs)
 ```
 
 ---
+### Bronze Layer
 
+Stores raw ingested data with minimal transformations.
+
+Tables created:
+
+- bronze_orders
+- bronze_order_items
+- bronze_products
+- bronze_payments
+
+### Silver Layer
+
+Applies data cleaning and normalization.
+
+Transformations performed:
+
+- Schema enforcement
+- Duplicate removal
+- Null value filtering
+- Feature engineering (delivery time calculation)
+- Data integrity validation
+
+__Tables created:__
+
+- silver_orders
+- silver_order_items
+- silver_products
+- silver_payments
+- silver_customers
+
+### Gold Layer
+
+Creates analytics-ready datasets used for reporting and insights.
+
+__Tables created:__
+
+- gold_fact_sales
+- gold_daily_revenue
+- gold_top_categories
+- gold_customer_ltv
+- gold_delivery_metric
 
