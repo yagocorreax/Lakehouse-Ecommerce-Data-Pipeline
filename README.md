@@ -69,5 +69,11 @@ __Tables created:__
 - gold_delivery_metric
 
 ---
-
+## Technology Stack
+- Databricks
+- Apache Spark (PySpark)
+- Delta Lake
+- Unity Catalog
+- Python 
+- SQL
 
