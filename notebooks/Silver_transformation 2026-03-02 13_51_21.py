@@ -1,3 +1,4 @@
+import spark
 # Databricks notebook source
 spark.sql("USE lakehouse_ecommerce")
 
