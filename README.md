@@ -8,5 +8,5 @@ The pipeline follows the Medallion Architecture (Bronze → Silver → Gold), tr
 The goal of this project is to simulate a real-world Data Engineering pipeline, covering ingestion, data cleaning, transformations, and analytics-ready tables.
 
 ---
-### Architecture
+## Architecture
 
