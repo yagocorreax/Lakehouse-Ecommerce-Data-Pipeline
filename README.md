@@ -68,3 +68,6 @@ __Tables created:__
 - gold_customer_ltv
 - gold_delivery_metric
 
+---
+
+
