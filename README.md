@@ -126,10 +126,7 @@ Analyzes average delivery time by state.
 - Distributed Data Processing
 
 ---
-## Author
 
-__Yago Ferreira__
-
-Aspiring Data Engineer focused on building scalable data pipelines and modern data platforms.
+Data Engineer focused on building scalable data pipelines and modern data platforms.
 
 
